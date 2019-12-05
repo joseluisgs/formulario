@@ -1,0 +1,6 @@
+AA99A-A|combate|sin municion, torpedos|Si|4ca4fe3b8e731eac9a96f16654d0ea24.jpg
+AA99A-B|transporte|sin municion, torpedos, laser|No|4ca4fe3b8e731eac9a96f16654d0ea24.jpg
+AA98A-A|transporte|sin municion, torpedos|Si|4ca4fe3b8e731eac9a96f16654d0ea24.jpg
+AZ54Q-S|transporte|sin municion, torpedos, laser|No|66ffe390935245ff78fe121ef24301dd.jpg
+
+WW69A-W|combate|sin municion|No|b0fa0c4ba081b78de674eaec951d7691.jpg
